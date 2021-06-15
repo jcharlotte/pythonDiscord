@@ -9,3 +9,5 @@ ___
 
 ### Découverte de python à travers un [tutorial](https://python.land/python-tutorial)
 - From 'Python Tutorial for beginners' to 'Python For Loop and While Loop'
+
+- From 'Python For Loop and While Loop' to 'Overriding Methods in Python' (15/06/2021)
